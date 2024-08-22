@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **mohamedabdelaziem96@gmail.com**
 
+
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://www.linkedin.com/in/mohamed-abdelaziem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abdelaziem" height="30" width="40" /></a>
@@ -28,3 +30,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedabdelaiem&show_icons=true&locale=en" alt="mohamedabdelaiem" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedabdelaiem&" alt="mohamedabdelaiem" /></p>
+
+[![](https://visitcount.itsvg.in/api?id=MohamedAbdelaiem&label=Profile%20Views&icon=0&pretty=false)](https://visitcount.itsvg.in)
