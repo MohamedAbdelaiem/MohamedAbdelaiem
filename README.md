@@ -7,8 +7,6 @@
 
 - 🌱 I’m currently learning **Front End development ,c++ development,data base, data structures**
 
-- 👨‍💻 All of my projects are available at [https://github.com/MohamedAbdelaiem](https://github.com/MohamedAbdelaiem)
-
 - 💬 Ask me about **JavaScript,css,html,c++,verilog**
 
 - 📫 How to reach me **mohamedabdelaziem96@gmail.com**
