@@ -18,7 +18,7 @@
 <a href="https://www.linkedin.com/in/mohamed-abdelaziem/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mohamed abdelaziem" height="30" width="40" /></a>
 <a href="https://www.facebook.com/mohamed.kahrba.750?locale=ar_AR" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="mohamed abdalazim" height="30" width="40" /></a>
 <a href="https://www.instagram.com/mohamed_3b3az/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/mohamed_3b3az/" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/mohamed_abdelaziem" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_abdelaziem" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/mohamed3b3az" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="mohamed_abdelaziem" height="30" width="40" /></a>
 <a href="https://leetcode.com/u/mohamedabdelaziem96/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="mohamedabdelaziem" height="30" width="40" /></a>
 </p>
 
