@@ -5,9 +5,9 @@
 <h3 align="center">A passionate computer engineer at cairo university</h3>
 <p align="right"> <img src="https://user-images.githubusercontent.com/74038190/219923809-b86dc415-a0c2-4a38-bc88-ad6cf06395a8.gif" align="right" width="500"  /> </p>
 
-- 🌱 I’m currently learning **Front End development ,c++ development,data base, data structures**
+- 🌱 I’m currently learning **Backend development ,c++ development,database, data structures**
 
-- 💬 Ask me about **JavaScript,css,html,c++,verilog**
+- 💬 Ask me about **JavaScript,css,html,c++**
 
 - 📫 How to reach me **mohamedabdelaziem96@gmail.com**
 
